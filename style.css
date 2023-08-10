@@ -1,0 +1,36 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    background: #FFDCB6 ;
+}
+.cabecalho__titulo{
+    text-align: center;
+    color: #9384D1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 2%;
+}
+
+body{
+    background:#ECC9EE;
+}
+
+.cadastro{
+    margin: 10%;
+}
+
+.cabecalho__informacao{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.cadastro__preencher{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
